@@ -22,18 +22,18 @@ Through coursework, team projects, and my experience as an AI4ALL Fellow, I've d
 
 Java • Python • C • C++ • SQL • JavaScript
 
-### Frameworks & Libraries
+### Frameworks & Tools
 
-React • Spring Boot • JavaFX • PySpark
+React • Spring Boot • JavaFX • Git • GitHub • IntelliJ IDEA • VS Code • Jupyter Notebook • Linux
+
+### AI / ML
+
+PySpark • Pandas *(Learning)* • scikit-learn *(Learning)*
 
 ### Databases
 
 MySQL • PostgreSQL
 
-### Developer Tools
+### Other
 
-Git • GitHub • IntelliJ IDEA • VS Code • Jupyter Notebook • Linux
-
-### Currently Learning
-
-Pandas • scikit-learn
+Object-Oriented Programming (OOP) • REST APIs • Data Analytics • Agile Development
