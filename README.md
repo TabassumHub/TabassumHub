@@ -37,3 +37,60 @@ MySQL • PostgreSQL
 ### Other
 
 Object-Oriented Programming (OOP) • REST APIs • Data Analytics • Agile Development
+# Featured Projects
+
+## 🕒 ClockIt
+
+**Academic Team Project • Software Engineering**
+
+A JavaFX desktop application that streamlines office hour scheduling by allowing students to book appointments while giving faculty an intuitive way to manage availability and appointments.
+
+**Tech Used:** Java • JavaFX • Git • Object-Oriented Programming
+
+### Highlights
+
+- Built scheduling and appointment management functionality
+- Designed an intuitive desktop interface using JavaFX
+- Collaborated in an Agile team using Git and GitHub
+- Applied object-oriented design principles throughout development
+
+🔗 **Repository:** [ClockIt](https://github.com/TabassumHub/ClockIt)
+
+---
+
+## 📊 Customer Segmentation App
+
+**Academic Team Project • Database Systems**
+
+A customer analytics platform that uses RFM (Recency, Frequency, Monetary) analysis to classify customers, manage orders, and generate business insights through a MySQL-backed desktop application.
+
+**Tech Used:** Java • JavaFX • MySQL • SQL
+
+### Highlights
+
+- Implemented customer segmentation using RFM analysis
+- Developed CRUD functionality for customer and order management
+- Integrated MySQL for persistent data storage
+- Built analytics features to support business decision-making
+
+🔗 **Repository:** [CustomerSegmentationApp](https://github.com/TabassumHub/CustomerSegmentationApp)
+
+---
+
+## 🛡️ PaySim Financial Fraud Analytics
+
+**Academic Team Project • Big Data Processing**
+
+A scalable analytics pipeline built on the PaySim dataset (~6 million financial transactions) to investigate fraud patterns using distributed data processing and cloud-based analytics tools.
+
+**Tech Used:** PySpark • Google Cloud Dataproc • Pandas • Linux
+
+### Highlights
+
+- Processed millions of financial transactions using PySpark
+- Explored fraud patterns through large-scale data analysis
+- Built distributed data processing workflows
+- Performed feature engineering for fraud analytics
+- Collaborated on a cloud-based analytics pipeline
+
+🔗 **Repository:** [PaySim Financial Fraud Analytics](https://github.com/TabassumHub/paysim-financial-fraud)
