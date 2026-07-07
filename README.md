@@ -1,44 +1,66 @@
-# Hi! I'm Tabassum 👋
+# Hi, I'm Tabassum 👋
 
-## 🚀 About Me
-Hi! I'm Tabassum, a Computer Science student at San José State University.
+I'm a Computer Science student at San José State University interested in software engineering, data-driven systems, healthcare technology, and responsible AI.
 
-I'm interested in building technology that improves real-world systems, especially in healthcare. My experiences have shaped my interest in using data and AI to support better decision-making and create more accessible solutions.
-
-- 🌱 Currently exploring: data-driven systems and responsible AI  
-- 🤝 Interested in: healthcare tech, ethical computing, and collaborative problem-solving  
-- 💡 I enjoy working on projects that have real-world impact  
+I’m currently building my portfolio through projects in desktop development, data analytics, and applied AI.
 
 ---
 
-## 🛠 Tech Stack
+## About Me
+
+- 🎓 Computer Science student at San José State University
+- 💻 Interested in software engineering, data systems, healthcare tech, and responsible AI
+- 🌱 Currently improving my GitHub, technical projects, and interview preparation
+- 🔎 Open to software engineering internships, co-ops, and new-grad opportunities
+
+---
+
+## Tech Stack
+
 **Languages:** Java, Python, C, C++, SQL  
-**Frameworks:** JavaFX, React, Spring Boot  
-**Tools:** Git, VS Code, IntelliJ  
+**Frameworks/Tools:** JavaFX, React, Spring Boot, Git, GitHub, MySQL, VS Code, IntelliJ  
+**Interests:** Full-Stack Development, Data Analytics, AI/ML, Healthcare Tech, Responsible Computing
 
 ---
 
-## 💻 Featured Projects
+## Featured Projects
 
-### 📊 Customer Segmentation App (RFM Analytics)
-- Built a full-stack application to segment users using RFM modeling  
-- Used SQL to analyze transactional data and identify patterns  
-- Developed a React dashboard for data visualization  
+### 🕒 [ClockIt](https://github.com/TabassumHub/ClockIt)
+JavaFX office hours scheduling application that helps faculty manage appointments and office hour availability.
 
-### 📅 Clock IT – Office Hours Manager
-- Built a scheduling system to improve coordination between students and faculty  
-- Designed the frontend using JavaFX  
-- Implemented backend logic for scheduling and conflict resolution  
+**Tech:** Java, JavaFX, OOP, Git  
+**Focus:** Scheduling systems, desktop UI, team software development
 
 ---
 
-## 🌍 Involvement
-**Responsible Computing Club (RCC)**  
-- Membership Outreach Ambassador  
-- Promote ethical and responsible use of technology  
+### 📊 [Customer Segmentation App](https://github.com/TabassumHub/CustomerSegmentationApp)
+Java desktop application that analyzes customer purchasing behavior using RFM analysis, CRUD operations, revenue reporting, and a MySQL backend.
+
+**Tech:** Java, JavaFX, MySQL, SQL  
+**Focus:** Data analytics, database-backed applications, customer segmentation
 
 ---
 
-## 📫 Contact Me
-📧 tabassumkhankakar@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/tabassum-zahir)
+### 🛡️ [PaySim Financial Fraud Analytics](https://github.com/TabassumHub/paysim-financial-fraud)
+Big data analytics project using PaySim financial transaction data to explore fraud patterns and scalable transaction analysis.
+
+**Tech:** Python, PySpark, Jupyter Notebook, Pandas  
+**Focus:** Fraud detection, big data, data engineering
+
+---
+
+## Involvement
+
+### Responsible Computing Club
+Membership Outreach Ambassador
+
+- Promote ethical and responsible use of technology
+- Support student engagement around responsible computing and tech-for-good topics
+
+---
+
+## Connect With Me
+
+- LinkedIn: add your LinkedIn link here
+- Email: tabassumkhankakar@gmail.com
+- GitHub: [TabassumHub](https://github.com/TabassumHub)
