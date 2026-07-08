@@ -94,3 +94,18 @@ A scalable analytics pipeline built on the PaySim dataset (~6 million financial 
 - Collaborated on a cloud-based analytics pipeline
 
 🔗 **Repository:** [PaySim Financial Fraud Analytics](https://github.com/TabassumHub/paysim-financial-fraud)
+---
+
+# Let's Connect
+
+📧 **Email:** tabassum.zahir@sjsu.edu 
+
+💼 **LinkedIn:**[ https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/tabassum-zahir/)
+
+🌐 **GitHub:** https://github.com/TabassumHub
+
+---
+
+# Fun Fact
+
+I've learned that I'm somehow more productive anywhere except my own desk.
