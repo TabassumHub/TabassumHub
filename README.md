@@ -1,14 +1,18 @@
-# Hi, I'm Tabassum 👋
-
-I'm a Computer Science student at San José State University, expected to graduate in 2027.
-
-I'm passionate about AI, machine learning, and building tools that solve real-world problems. I'm currently an AI4ALL Fellow and seeking internship and collaboration opportunities.
-
-📍 Based in California | Open to remote and hybrid roles
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=120&pause=999999&color=B8E3F7&center=true&vCenter=true&repeat=false&width=650&lines=%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9+I'm+Tabassum+%E2%9C%A9%C2%B0%EF%BD%A1%E2%8B%86" alt="Typing SVG" />
+</p>
 
 ---
 
-## About Me
+I'm a **Computer Science student** at **San José State University**, expected to graduate in **2027**.
+
+I'm passionate about **AI, machine learning, and building tools that solve real-world problems**. I'm currently an **AI4ALL Fellow** and seeking **internship and collaboration opportunities**.
+
+📍 **Based in California** | Open to remote and hybrid roles
+
+---
+
+## 🚀 About Me
 
 I'm driven by building software that makes people's lives easier. Whether it's developing applications that solve everyday problems, using AI to improve decision-making, or analyzing data to uncover meaningful insights, I enjoy turning ideas into practical solutions.
 
