@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=B8E3F7&center=true&vCenter=true&width=700&lines=%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9+I'm+Tabassum+%E2%9C%A9%C2%B0%EF%BD%A1%E2%8B%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=B8E3F7&center=true&vCenter=true&width=700&lines=%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9+Hi!+I'm+Tabassum+%E2%9C%A9%C2%B0%EF%BD%A1%E2%8B%86)](https://git.io/typing-svg)
 ---
 
 I'm a **Computer Science student** at **San José State University**, expected to graduate in **2027**.
